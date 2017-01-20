@@ -57,4 +57,5 @@ bar.draw({
 ![小程序二维码](https://github.com/kenshinlin/wechat-chart/blob/master/ssj_qr.png)
 
 - 示意图
+
 ![小程序二维码](https://github.com/kenshinlin/wechat-chart/blob/master/linebar.png)
